@@ -1,0 +1,41 @@
+.container{
+    background-color: #F98866;
+    width: 450px;
+    height: auto;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   flex-direction: column;
+    gap: 10px;
+    
+}
+
+.input1{
+    height: 20px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.checkBoxDiv{
+    margin: 5px;
+}
+
+.btnDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+.addButton{
+    height: 45px;
+    width: 75px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    color: #F98866;
+    background-color: azure;
+}

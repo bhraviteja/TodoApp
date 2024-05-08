@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.DisplayMainContainer{
+    background-color: #A1BE95;
+    width: 450px;
+    height: auto;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   flex-direction: column;
+    gap: 10px;
+    
+}
+.displayCard{
+    background-color: white;
+    border-radius: 8px;
+    width: 300px;
+    padding: 15px;
+}
